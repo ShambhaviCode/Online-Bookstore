@@ -1,4 +1,4 @@
-# 📚 Online Bookstore Management System
+# 📚 Online Bookstore 
 
 ## 📖 Overview
 
