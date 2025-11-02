@@ -1,6 +1,6 @@
 ## 📚 Online Bookstore 
 
-## 📖 Overview
+### 📖 Overview
 
 The **Online Bookstore Management System** is a console-based application developed using pure **Core Java** concepts such as:
 
@@ -20,7 +20,7 @@ Serving as a **mini e-commerce platform** built entirely in Java, it demonstrate
 
 ---
 
-## 🎯 Objectives
+### 🎯 Objectives
 
 The main objectives of the **Online Bookstore Management System** are:
 
@@ -31,7 +31,7 @@ The main objectives of the **Online Bookstore Management System** are:
 
 ---
 
-## 🧩 Problem Statement
+### 🧩 Problem Statement
 
 In traditional bookstores, managing book inventory, tracking sales, and handling customer records manually can be **time-consuming** and **error-prone**.  
 As the number of books and customers increases, maintaining accurate records becomes more challenging.
@@ -46,7 +46,7 @@ This system ensures faster processing, improved accuracy, and easier access to i
 
 ---
 
-## 👥 Intended Beneficiaries
+### 👥 Intended Beneficiaries
 
 The **Online Bookstore Management System** is designed to benefit the following users:
 
@@ -56,7 +56,7 @@ The **Online Bookstore Management System** is designed to benefit the following 
 
 ---
 
-## 💻 Software Requirements
+### 💻 Software Requirements
 
 - **Operating System:** Windows / macOS / Linux  
 - **Programming Language:** Java (Core Java)  
@@ -66,7 +66,7 @@ The **Online Bookstore Management System** is designed to benefit the following 
 
 ---
 
-## ⚙️ Hardware Requirements
+### ⚙️ Hardware Requirements
 
 - **Processor:** Intel Core i3 or higher  
 - **RAM:** Minimum 2 GB (4 GB recommended)  
@@ -79,7 +79,7 @@ The **Online Bookstore Management System** is designed to benefit the following 
 
 ---
 
-## 🧩 Step 1: Create the Project
+### 🧩 Step 1: Create the Project
 
 - 🖥️ Open your preferred Java IDE such as **Eclipse**, **IntelliJ IDEA**, **NetBeans**, or even a simple text editor like **Notepad**.  
 - 📁 Create a new Java project named **OnlineBookstore**.  
