@@ -1,4 +1,4 @@
- Online-Bookstore Management System
+ Online Bookstore Management System
  
 The Online Bookstore Management System is a console-based application developed using pure Core 
 Java concepts such as Object-Oriented Programming (OOP), Collections, and File Handling. The system 
