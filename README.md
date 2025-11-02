@@ -46,7 +46,7 @@ This system ensures faster processing, improved accuracy, and easier access to i
 
 ---
 
-## 👥 Intended Beneficiaries of the Project
+## 👥 Intended Beneficiaries
 
 The **Online Bookstore Management System** is designed to benefit the following users:
 
