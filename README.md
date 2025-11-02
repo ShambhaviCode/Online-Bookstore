@@ -73,3 +73,21 @@ The **Online Bookstore Management System** is designed to benefit the following 
 - **Hard Disk:** Minimum 100 MB of free space  
 - **Display:** 1024 × 768 resolution or higher  
 - **Input Devices:** Standard keyboard and mouse .
+
+---
+
+## 🚀 Getting Started
+
+Follow the steps below to set up and run the **Online Bookstore Management System** on your local machine.
+
+### 🖥️ Prerequisites
+Ensure you have the following installed:
+- Java Development Kit (**JDK 8** or above)
+- Any Java IDE (e.g., **Eclipse**, **IntelliJ IDEA**, **NetBeans**) — or use a simple text editor like **VS Code** or **Notepad**
+- Basic command-line or IDE knowledge
+
+### ⚙️ Installation Steps
+1. 📂 **Clone or download** this repository.  
+   ```bash
+   git clone https://github.com/ShambhaviCode
+/OnlineBookstore.git
