@@ -73,6 +73,8 @@ The **Online Bookstore Management System** is designed to benefit the following 
 - **Hard Disk:** Minimum 100 MB of free space  
 - **Display:** 1024 × 768 resolution or higher  
 - **Input Devices:** Standard keyboard and mouse
+
+___
 # ⚙️ Step-by-Step Implementation of Online Bookstore Management System
 
 ---
