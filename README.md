@@ -78,4 +78,25 @@ The **Online Bookstore Management System** is designed to benefit the following 
 
 ## 🚀 Getting Started
 
+## 🏗️ Step 1: Create the Project
+
+- 🖥️ Open your preferred Java IDE such as **Eclipse**, **IntelliJ IDEA**, **NetBeans**, or even a simple text editor like **Notepad**.  
+- 📁 Create a new Java Project named **OnlineBookstore**.  
+- 📦 Inside the project, create a package named **com.bookstore** (optional if not using an IDE).  
+- 📄 Add a new Java class file named **OnlineBookstore.java**.  
+- 🚀 Set up the `main()` method to serve as the entry point of the program.  
+
+```java
+// File: OnlineBookstore.java
+// Package declaration (optional, but recommended if using an IDE)
+package com.bookstore;
+
+public class OnlineBookstore {
+    public static void main(String[] args) {
+        System.out.println("Welcome to the Online Bookstore!");
+        // Entry point of the application
+        // Future steps will add more functionality here
+    }
+}
+
 
